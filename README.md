@@ -30,6 +30,24 @@ Vue basics to understand how to build and refactor local vue. Recently solving a
 
 - If you are working with *vscode*, add extensions for highlighting and tools
 
+- Sample page generated when finishing creating an exercise with useful links
+
+  ![image-20220202103207941](./sample-generated-page.png)
+
+- The *App.vue* is made up of three sections
+
+  - **Template**
+
+  - **Script**
+
+  - **Style**
+
+    ![image-20220202104042282](./app-vue.png)
+
+- **Components** render html within template structure which get consumed in the app through the components section
+
+  ![image-20220202104726924](./component-example.png)
+
 - 
 
 ## References
