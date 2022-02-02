@@ -3,6 +3,8 @@ Vue basics to understand how to build and refactor local vue. Recently solving a
 
 ## Gettign started
 
+- Core documentation can be found at https://vuejs.org/ and starting with the latest version, which at the time of this is [v3](https://v3.vuejs.org/guide/introduction.html) but dealing with upgrading v2
+
 - The ***Vue*** instance is the heart of the app with an Application vue template
 
   ```javascript
@@ -22,7 +24,13 @@ Vue basics to understand how to build and refactor local vue. Recently solving a
 
 - Setup the CLI as the vue team by installing this globally `npm i -g @vue/cli` 
 
-- Once the CLI is setup you can generate a new project `vue create <Your-spa-app>`
+- Once the CLI is setup you can generate a new project `vue create <Your-spa-app>` and configure it manually customising the details needed
+
+  ![image-20220202094447064](./vue-cli.png)
+
+- If you are working with *vscode*, add extensions for highlighting and tools
+
+- 
 
 ## References
 
